@@ -12,6 +12,7 @@ import javax.ws.rs.core.Application;
  * Refer to https://jersey.java.net/documentation/latest/deployment.html
  * Section 4.7.2.1. Descriptor-less deployment
  * Only supported on Servlet 3.0 and above. Hence I don't have an web.xml configuration for my Jersey Serlvet
+ * Repo shared with megharohith on 3/7/2020
  */
 
 @ApplicationPath("/*")
